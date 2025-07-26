@@ -5,9 +5,9 @@ The cross-compiler toolchain for the [TheTaaJ](https://github.com/TheJaat/TheTaa
 x86_32 Bit.
 
 ## Build
-``bash
+```bash
 sudo bash toolchain_i686.sh
-``
+```
 
 ## Export the Path
 1. Open your `.bashrc` file in a text editor:
