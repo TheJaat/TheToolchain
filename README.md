@@ -5,7 +5,7 @@ The cross-compiler toolchain for the [TheTaaJ](https://github.com/TheJaat/TheTaa
 x86_32 Bit.
 
 ## Build
-``sh
+``bash
 sudo bash toolchain_i686.sh
 ``
 
